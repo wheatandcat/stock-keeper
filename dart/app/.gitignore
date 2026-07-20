@@ -70,3 +70,5 @@ csr.pem
 
 # web
 web/index.html
+ios/.derived-data-log-*
+ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/
